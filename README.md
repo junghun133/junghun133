@@ -1,7 +1,5 @@
 ### Hi there, I'm Junghoon Park 😄
 
-[<img src="/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>)
-
 <!--
 **junghun133/junghun133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+</div>
+
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xvq7VZgrFHM/0.jpg)](https://www.youtube.com/watch?v=xvq7VZgrFHM)
