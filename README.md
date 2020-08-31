@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-</div>
-
-
-
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xvq7VZgrFHM/0.jpg)](https://www.youtube.com/watch?v=xvq7VZgrFHM)
 
 
