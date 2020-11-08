@@ -1,4 +1,4 @@
-### Hi there, I'm Junghoon Park 😄
+### Hi there, I'm Junghoon Park
 <div align=center>
   ↓ Please click here to watch this video
 </div>
