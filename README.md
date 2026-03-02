@@ -3,7 +3,9 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 신뢰할 수 있는 백엔드 시스템을 설계 및 개발 합니다. <br/></li></li>확장성과 가독성, 그리고 단순함 사이의 균형을 추구합니다.</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Massive Data: 초당 수만 건 이상의 대량 문자/데이터 처리 시스템 설계 및 운영
+High Traffic: 수백만 명 규모의 대규모 유저 서비스 안정화 및 성능 최적화
+AI Serving: 효율적인 AI 모델 연동 및 서비스화 경험 </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
