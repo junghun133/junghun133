@@ -39,6 +39,7 @@
   </td></tr>
   <tr><td><b>Data</b></td><td>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square" alt="Oracle"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
@@ -54,21 +55,14 @@
   <tr><td><b>DevOps</b></td><td>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   </td></tr>
 </table>
 
-<h3>Projects</h3>
-
-<ul>
-  <li><a href="https://github.com/junghun133/card-news"><b>card-news</b></a> &nbsp;AI가 뉴스를 골라 요약하고, 카드뉴스 이미지와 영상까지 만드는 데스크톱 앱<br/><sub>Electron · React · OpenAI · Gemini</sub></li>
-  <li><a href="https://github.com/junghun133/voxel-skyline"><b>voxel-skyline</b></a> &nbsp;노트, 문서, CSV를 걸어 다닐 수 있는 복셀 도시로 바꾸는 3D 시각화 도구<br/><sub>TypeScript · three.js</sub></li>
-</ul>
-
 <h3>Contact</h3>
 
 <p>
-Blog &nbsp;<a href="https://jhparkkk.tistory.com/">jhparkkk.tistory.com</a><br/>
 Mail &nbsp;<a href="mailto:junghun5947@gmail.com">junghun5947@gmail.com</a>
 </p>
